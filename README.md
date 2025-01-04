@@ -74,3 +74,6 @@ All outputs are displayed as formatted tables for clarity.
 Prepared by Gladys Isabel Umayam, as part of the assessment task.
 
 For any questions, feel free to reach out via GitHub Issues in the repository.
+
+## Additional Notes
+This branch contains the assessment submission for review.
